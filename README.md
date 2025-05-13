@@ -1,0 +1,1 @@
+This project explores and visualizes ego-centric social network graphs using the ego-Facebook dataset from the Stanford Network Analysis Project (SNAP). It focuses on understanding the internal structure of friend-to-friend relationships within individual ego networks and the combined Facebook graph.
